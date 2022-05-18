@@ -224,4 +224,17 @@ footer {
         width: 500px;
         justify-content: space-around;
     }
+    .tech {
+        margin-top: 150px;
+        width: 800px;
+    }
+    .tms, .tm {
+        width: 200px;
+        padding-left: 200px;
+    }
+    .tekk {
+        width: 200px;
+        justify-content: space-around;
+    }
+
 }
