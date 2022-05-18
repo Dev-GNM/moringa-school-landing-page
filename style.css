@@ -12,7 +12,7 @@
     align-items: center;
     padding: 40px;
 } 
-ul>li{
+ul{
     display: flex;
     justify-content: space-around;
     width: 30%;
@@ -214,4 +214,13 @@ footer {
     justify-content: center;
     align-items: center;
     background-color: rgb(151, 145, 137);
+}
+
+@media  only screen and (max-width: 600px) {
+    body {
+        width: 500px;
+    }
+    .head ul{
+        width: 500px;
+    }
 }
